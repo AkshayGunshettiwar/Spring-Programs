@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/DaoJdbcSpring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringMVCLogin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aopSpringpr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springMongo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springjpa" vcs="Git" />
+  </component>
+</project>
